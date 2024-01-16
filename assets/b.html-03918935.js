@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-4f82cfc3","path":"/word/b.html","title":"题记","lang":"en-US","frontmatter":{"prev":{"text":"序","link":"/word/README.md"}},"headers":[],"git":{},"filePathRelative":"word/b.md"}');export{t as data};

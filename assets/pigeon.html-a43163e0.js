@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-fc696c2c","path":"/kong/pigeon.html","title":"","lang":"en-US","frontmatter":{"prev":{"text":"植物","link":"/kong/plant.md"},"next":{"text":"云","link":"/kong/cloud.md"}},"headers":[{"level":2,"title":"鸽子","slug":"鸽子","link":"#鸽子","children":[]}],"git":{},"filePathRelative":"kong/pigeon.md"}');export{e as data};

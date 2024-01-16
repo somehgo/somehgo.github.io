@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-ac950192","path":"/mirror/","title":"镜","lang":"en-US","frontmatter":{"next":{"text":"α","link":"/mirror/a.md"}},"headers":[{"level":2,"title":"序言","slug":"序言","link":"#序言","children":[]}],"git":{},"filePathRelative":"mirror/README.md"}');export{e as data};

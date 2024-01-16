@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-539317d6","path":"/kong/city.html","title":"","lang":"en-US","frontmatter":{"prev":{"text":"云","link":"/kong/cloud.md"},"next":{"text":"结构","link":"/kong/structure.md"}},"headers":[{"level":2,"title":"城市","slug":"城市","link":"#城市","children":[]}],"git":{},"filePathRelative":"kong/city.md"}');export{t as data};

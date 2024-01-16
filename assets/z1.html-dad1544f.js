@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-f9458daa","path":"/mirror/z1.html","title":"","lang":"en-US","frontmatter":{"prev":{"text":"ⅩⅩⅣ","link":"/mirror/z.md"},"next":{"text":"ⅩⅩⅥ","link":"/mirror/z2.md"}},"headers":[{"level":2,"title":"ⅩⅩⅤ","slug":"xxv","link":"#xxv","children":[]}],"git":{},"filePathRelative":"mirror/z1.md"}');export{t as data};

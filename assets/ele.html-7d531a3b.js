@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-58c41758","path":"/kong/ele.html","title":"","lang":"en-US","frontmatter":{"prev":{"text":"序","link":"/kong/README.md"},"next":{"text":"彩色2","link":"/kong/co2.md"}},"headers":[{"level":2,"title":"彩色1","slug":"彩色1","link":"#彩色1","children":[]}],"git":{},"filePathRelative":"kong/ele.md"}');export{e as data};
